@@ -76,3 +76,24 @@ nav a{
 .banner-description{
     font-size: 2rem;
 }
+
+/* main */
+/* about section */
+.about{
+    padding: 130px;
+    border-radius: 10px;
+    background-color: #FFF8F3;
+    margin: 130px 0px;
+}
+.section-title{
+    color: #181818;
+    font-size:2.10rem ;
+    font-weight: 700;
+    text-align: center;
+
+}
+.section-description{
+    color: #757575;
+    font-size:1.1rem ;
+    text-align: center;
+}
